@@ -153,18 +153,28 @@
 
 ### 🪙 آدرس کیف‌پول‌ها جهت واریز مستقیم (Direct Crypto Transfer):
 
-| شبکه / ارز | آدرس کیف‌پول (Wallet Address) |
-| :--- | :--- |
-| 🟢 **USDT (BEP20)** | `0x36684afcE21D33230fa6205D6a999c60AEeB54a3` |
-| 🔴 **TRX (Tron)** | `TRahMcxX35bvCazwqTevc6XKoveuWirTyN` |
-| 💎 **GRAM (TON)** | `UQAHNAcClLsMLoB5oo32c6MwV43QfG7es33eM3FOy-TD9NVc` |
+> [!TIP]
+> با کلیک روی دکمهٔ **Copy** (گوشهٔ سمت راست هر کادر)، آدرس کیف‌پول بدون نیاز به انتخاب دستی در کلیپ‌بورد شما کپی می‌شود.
+
+**🟢 USDT (BEP20):**
+```text
+0x36684afcE21D33230fa6205D6a999c60AEeB54a3
+```
+
+**🔴 TRX (Tron):**
+```text
+TRahMcxX35bvCazwqTevc6XKoveuWirTyN
+```
+
+**💎 GRAM (TON):**
+```text
+UQAHNAcClLsMLoB5oo32c6MwV43QfG7es33eM3FOy-TD9NVc
+```
 
 ---
 
 ## ⚖️ لایسنس
 
 این پروژه تحت لایسنس **GPL-3.0** منتشر شده است. فاکسیما پروژه‌ای کاملاً **رایگان و متن‌باز (Open-Source)** است و هرگونه فروش خودِ سورس یا دریافت وجه بابت آن تخلف محسوب می‌شود.
-
----
 
 </p>
